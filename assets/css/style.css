@@ -263,7 +263,7 @@ p.copyright {
 
 .box{
 
-  background-color: cadetblue;
+  background-color: white;
 border: 2px solid;
 border-radius: 20px;
 margin-left:50px;
@@ -282,4 +282,8 @@ margin-left:50px;
 
 .breadcrumb a {
   color:#1D1B1B;
+}
+
+.btn-default {
+color: #26A3A8;
 }
